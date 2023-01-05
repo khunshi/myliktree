@@ -14,10 +14,10 @@ body {
   user-select: none;
   /* Standard syntax */
 
-  padding-top: 0px;
+  padding-top: 50px;
   padding-bottom: 50px;
   font-size: 15pt;
-  height: 100vh;
+
   width: 100vw;
   background-color: white;
   display: flex;
