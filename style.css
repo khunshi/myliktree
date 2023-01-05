@@ -127,3 +127,14 @@ img {
 ._ {
   height: 20px;
 }
+
+
+@media (min-width: 1000px) {
+
+  body {
+
+    margin-top: 100px;
+
+  }
+
+}
